@@ -5,4 +5,4 @@ Este repositorio tiene como obejtivos el desarrollo de proyectos para el tratmie
 * EDA
 
 @Scrapy:
-Es un reporitirio para trabajos relacionados con la extracion de datos desde fuentes tipo paginas web, utilizado para ello distinta technologias.
+Es un repositorio para trabajos relacionados con la extracion de datos desde fuentes tipo paginas web, utilizado para ello distinta technologias.
