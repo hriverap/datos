@@ -4,5 +4,5 @@ Este repositorio tiene como obejtivos el desarrollo de proyectos para el tratmie
 * Data Quality
 * EDA
 
-@Scrapy:
+<a href="https://github.com/hriverap/datos/tree/master/scrapy">@Scrapy:</a>
 Es un repositorio para trabajos relacionados con la extracion de datos desde fuentes tipo paginas web, utilizado para ello distinta tecnologias.
